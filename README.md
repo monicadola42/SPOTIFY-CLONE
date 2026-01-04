@@ -16,5 +16,5 @@ Technologies Used
 - CSS
 - JavaScript
 
-Purpose of the Project
+Purpose of the Project:
 This project was created to practice front-end web development and JavaScript DOM manipulation concepts.
